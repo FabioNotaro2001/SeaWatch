@@ -2,13 +2,13 @@
 
 ## Overview
 
-SeaWatch is a mobile application developed as part of a mobile programming course. It aims to assist in the planning and coordination of SeaWatch's rescue operations by allowing volunteers to register, create profiles, and specify their availability for missions. The application facilitates efficient crew management and operational planning.
+SeaWatch is a mobile application developed as part of a mobile programming course. It aims to assist in the planning and coordination of marine sightings and alerting.
 
 ## Features
 
-- **Volunteer Registration**: Users can sign up and create profiles.
-- **Availability Scheduling**: Volunteers can specify their availability for rescue missions.
-- **Crew Management**: Administrators can manage volunteer assignments and schedules.
+- **Volunteer Registration**: Users can sign up and create profiles
+- **Sighting**
+- **Specie classification** using computer vision techniques based on images collected by the user.
 
 ## Technologies Used
 
@@ -57,8 +57,6 @@ Usage
 
     Profile Creation: After registration, users can create and update their profiles, including specifying their availability for missions.
 
-    Admin Panel: Administrators can access a panel to manage volunteer profiles and assignments.
-
 Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
@@ -67,11 +65,4 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 Acknowledgments
 
-    SeaWatch: For their dedication to humanitarian efforts.
-
-    Firebase: For providing backend services that power the application.
-
     Android Developers: For the tools and resources to build Android applications.
-    
----
- 
